@@ -20,7 +20,7 @@ all links referencing a file ending with '.gpx'. The downloaded files
 will be placed in the directory specified through the `--out-dir`
 argument.
 
-The input file `<LINKS` is expected to be a CSV file in the format
+The input file `<LINKS>` is expected to be a CSV file in the format
 `<PREFIX>,<LINK>`, e.g.,
 ```
 FOO,https://my.domain.com/thefoo
